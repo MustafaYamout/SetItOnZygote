@@ -1,4 +1,4 @@
-- 👋 Greetings, I’m SetItOnZygote
+- 👋 Greetings, I’m Mustafa!
 - 👀 I'm currently learning Python, JavaScript, and Java
 - 🌱 Trying to work on projects!
 - 💞️ Any questions about me? Feel free to DM me!
